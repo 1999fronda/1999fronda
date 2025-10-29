@@ -58,7 +58,3 @@ Central Luzon State University (2015–2020)
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-episcope/)  
 - 🌍 [Portfolio](https://emmanuelepiscope.vercel.app/)  
 - 🏠 Nueva Ecija, Philippines  
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelepiscope&layout=compact)
